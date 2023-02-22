@@ -16,6 +16,8 @@
 ---
 
 <div id="chinese">
+ 
+[English](#english) | [中文](#chinese)
 
 # [中文文档](#chinese)
 
@@ -52,6 +54,8 @@ output_format=.ico  # .ico or .png or .jpg
 ---
 
 <div id="english">
+ 
+[中文](#chinese) | [English](#english)
 
 # [English Document](#english)
 
